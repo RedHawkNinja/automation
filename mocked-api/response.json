@@ -1,0 +1,4 @@
+{
+  "apiURL": "https://demo.playwright.dev/todomvc/",
+  "textWith4Words": { "text": "This is a test" }
+}
