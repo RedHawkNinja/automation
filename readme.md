@@ -12,7 +12,7 @@ This test automation framework is built with Playwright to test the [Todo applic
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/automation.git
+   git clone https://github.com/RedHawkNinja/automation.git
    cd automation
    ```
 
